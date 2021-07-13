@@ -1,7 +1,8 @@
 # Getting Started with Create React App
-
+![Screenshot](notes_homepage.png)
+![Screenshot](two_notes.png)
 # Note:
-The deployed version of the app is not working. So use the app locally.
+### The deployed version of the app is not working. So use the app locally!!
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
