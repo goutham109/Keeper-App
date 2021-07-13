@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+# Note:
+The deployed version of the app is not working. So use the app locally.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
